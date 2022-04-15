@@ -2,7 +2,7 @@
 
 Show:
 
-  in RVIZ:
+	in RVIZ:
   
   roslaunch zzx_run_description display_xacro.launch
   
